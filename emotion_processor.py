@@ -70,5 +70,3 @@ plt.xlabel("Previsto")
 plt.ylabel("Real")
 plt.colorbar()
 plt.show()
-
-s
